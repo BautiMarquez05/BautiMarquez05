@@ -39,11 +39,6 @@ I am currently planning and developing my first set of personal projects to show
     <a href="https://github.com/BautiMarquez05">
         <img src="https://github-readme-stats.vercel.app/api?username=BautiMarquez05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Francisco's GitHub Stats" />
     </a>
-    
-    <br/> 
-    <a href="https://github.com/BautiMarquez05">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BautiMarquez05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </a>
 </p>
 
 ### 📧 Let's Connect
@@ -52,8 +47,6 @@ I welcome networking and collaboration opportunities!
 
 * :link: **LinkedIn:** **[Añade Tu Enlace de LinkedIn Aquí]**
 * :email: **Personal Email:** **[Añade Tu Correo Personal Aquí]**
-
----
 
 ### ⭐ Commitment
 
