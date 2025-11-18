@@ -45,8 +45,9 @@ I am currently planning and developing my first set of personal projects to show
 
 I welcome networking and collaboration opportunities!
 
-* :link: **LinkedIn:** **[Añade Tu Enlace de LinkedIn Aquí]**
-* :email: **Personal Email:** **[Añade Tu Correo Personal Aquí]**
+* :email: **Personal Email:** **fjbautistauhu@gmail.com**
+* :camera: **Instagram:** **https://www.instagram.com/fjbautistam05/**
+
 
 ### ⭐ Commitment
 
